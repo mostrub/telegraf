@@ -69,7 +69,7 @@ require (
 	github.com/digitalocean/go-libvirt v0.0.0-20240513153900-2d13115a1625
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/djherbis/times v1.6.0
-	github.com/docker/docker v25.0.5+incompatible
+	github.com/docker/docker v25.0.6+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/dynatrace-oss/dynatrace-metric-utils-go v0.5.0
 	github.com/eclipse/paho.golang v0.21.0
@@ -212,7 +212,7 @@ require (
 	gonum.org/v1/gonum v0.15.0
 	google.golang.org/api v0.183.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240604185151-ef581f913117
-	google.golang.org/grpc v1.64.0
+	google.golang.org/grpc v1.64.1
 	google.golang.org/protobuf v1.34.1
 	gopkg.in/gorethink/gorethink.v3 v3.0.5
 	gopkg.in/olivere/elastic.v5 v5.0.86
@@ -333,7 +333,7 @@ require (
 	github.com/godbus/dbus/v5 v5.1.0
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
